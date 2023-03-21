@@ -14,7 +14,7 @@ Mail: c.samperquinto@gmail.com
  
  I am interested in the development of quantum algorithms but I am currently focus on quantum annealing and implementation of quantum machine learning in sentiment analysis.
  
- Trying to learn everyday &#127800.
+ Trying to learn everyday &#127800; .
  
  The cake is a lie.
 
