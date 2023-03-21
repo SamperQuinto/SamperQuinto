@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Carlos Samper Quinto</h1>
 <h3 align="center">A Quantum Computing developer from Spain</h3>
 
-- 🔭 I’m currently working on **IBM and D-Wave software**
+<h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Ocean**
-
-- 👯 I’m looking to collaborate on **whoever wants to :)**
-
-- 💬 Ask me about **Physics, Quantum Computing, QisKit, Phyton 3.0, etc.**
-
-- 📫 How to reach me **c.samperquinto@gmail.com**
+ Physics graduated from Universidad de Murcia, mastered in Quantum Computing from Universidad Internacional de La Rioja. Currently developing my practices in Quanvia.
+ I am interested in the development of quantum algorithms but I am currently focus on quantum annealing and implementation of quantum machine learning in sentiment analysis.
+ Trying to learn everyday.
+ The cake is a lie.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
