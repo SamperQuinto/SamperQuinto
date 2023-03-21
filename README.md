@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Samper Quinto</h1>
 <h3 align="center">A Quantum Computing developer from Spain</h3>
 
-<img align='right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="230">
+<img align='right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360">
 <p><em> I+D departament at <a href="https://www.quanvia.com/"> Quanvia
 </em></p>
 
