@@ -27,3 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samperquinto&" alt="samperquinto" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samperquinto&show_icons=true&locale=en" alt="samperquinto" /></p>
+
