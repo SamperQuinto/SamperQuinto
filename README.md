@@ -32,7 +32,5 @@ Mail: c.samperquinto@gmail.com
   </a> <a href="https://docs.ocean.dwavesys.com/en/stable/#" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/QBTS-dfc9fb9b.png?t=1666164742" alt="Ocean" width="40" height="40"/>
   </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samperquinto&" alt="samperquinto" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samperquinto&show_icons=true&locale=en" alt="samperquinto" /></p>
 
