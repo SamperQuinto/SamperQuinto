@@ -10,13 +10,13 @@ Mail: c.samperquinto@gmail.com
 
 <h3 align="left">About me:</h3>
 
- Physics graduated from Universidad de Murcia, mastered in Quantum Computing from Universidad Internacional de La Rioja. Currently developing my practices in Quanvia.
+&#127891; Physics graduated from Universidad de Murcia, mastered in Quantum Computing from Universidad Internacional de La Rioja. Currently developing my practices in Quanvia.
  
  I am interested in the development of quantum algorithms but I am currently focus on quantum annealing and implementation of quantum machine learning in sentiment analysis.
  
- Trying to learn everyday &#127800; .
+ Trying to learn everyday &#127800;.
  
- The cake is a lie.
+ The cake is a lie &#127856;.
 
 <h3 align="left">Social media:</h3>
 <p align="left">
