@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Carlos Samper Quinto</h1>
 <h3 align="center">A Quantum Computing developer from Spain</h3>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em> I+D departament at <a href="[https://www.dlr.de/DE/Home/home_node.html](https://www.quanvia.com/)"> Quanvia
+</em></p>
+
+### 📫 Like to meet me?
+Mail: c.samperquinto@gmail.com
+
 <h3 align="left">About me:</h3>
 
  Physics graduated from Universidad de Murcia, mastered in Quantum Computing from Universidad Internacional de La Rioja. Currently developing my practices in Quanvia.
